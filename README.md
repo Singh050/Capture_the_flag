@@ -1,6 +1,6 @@
-Capture the Flag (CTF) Challenges
+**Capture the Flag (CTF) Challenges**
 
-This repository contains a comprehensive breakdown of a **Capture the Flag (CTF)** exercise. The project demonstrates practical skills in vulnerability exploitation, sensitive data extraction, and network traffic analysis through three well-defined tasks.
+This repository contains a comprehensive breakdown of a Capture the Flag (CTF) exercise. Through three well-defined tasks, the project demonstrates practical skills in vulnerability exploitation, sensitive data extraction, and network traffic analysis.
 
 ---
 
