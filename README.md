@@ -119,4 +119,4 @@ Tasks
 📬 **Contact**
 
 For collaboration or inquiries, reach out:  
-**Barjinder Singh** - [barjindersingh@ou.edu](mailto:barjindersingh@ou.edu)
+**Barjinder Singh** - [barjindersingh1104@gmail.com](mailto:barjindersingh1104@gmail.com)
